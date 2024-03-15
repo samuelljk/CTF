@@ -1,0 +1,6 @@
+picoCTF{7h3_r04d_l355_7r4v3l3d_ae0b80bd}
+
+1. Open the serpentine.py
+2. There is a non used function 'print_flag()'
+3. Modify a. option into calling print_flag()
+

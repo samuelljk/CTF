@@ -1,0 +1,3 @@
+picoCTF{run_s4n1ty_run}
+
+1. cat runme.py, and it's too obvious that this code will just print out the flag

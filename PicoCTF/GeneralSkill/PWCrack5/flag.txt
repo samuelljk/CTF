@@ -1,0 +1,5 @@
+picoCTF{h45h_sl1ng1ng_36e992a6}
+
+1. Modified level5.py
+2. Create new variable to list all possible password from 'dictionary.txt' -- new_var = list(var.split('\n')) 
+3. Iterate through the list to find the correct Password
