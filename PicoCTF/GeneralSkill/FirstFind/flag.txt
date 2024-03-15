@@ -1,0 +1,5 @@
+picoCTF{f1nd_15_f457_ab443fd1}
+
+1. Unzip File
+2. find <pwd> -name 'uber-secret.txt'
+3. Go to the location, get the flag
