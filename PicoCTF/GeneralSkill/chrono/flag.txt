@@ -1,0 +1,4 @@
+picoCTF{Sch3DUL7NG_T45K3_L1NUX_d83baed1}
+
+1. ssh <username>@<server/IP> -p <port>
+2. cat /etc/crontab
